@@ -1,4 +1,4 @@
 
-# CSC4110-assignment1
+# GitHub and git
 Moin Syed
 hl2336
